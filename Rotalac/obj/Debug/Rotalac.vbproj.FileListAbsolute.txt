@@ -1,0 +1,10 @@
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\bin\Debug\Rotalac.exe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\bin\Debug\Rotalac.pdb
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\bin\Debug\Rotalac.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\obj\Debug\Rotalac.CalPadForm.resources
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\obj\Debug\Rotalac.Resources.resources
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\obj\Debug\Rotalac.vbproj.GenerateResource.Cache
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\obj\Debug\Rotalac.exe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\obj\Debug\Rotalac.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\obj\Debug\Rotalac.pdb
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Rotalac\Rotalac\obj\Debug\Rotalac.about.resources
